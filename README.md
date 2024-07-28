@@ -1,5 +1,7 @@
 # Data Warehouse T-SQL Scripts
 
+Youtube Video: https://www.youtube.com/watch?v=R_O02ZHGPto
+
 This repository contains T-SQL scripts for setting up and managing a data warehouse. The scripts are organized into different folders for schemas, tables, stored procedures, and other related SQL components.
 
 ## Structure
